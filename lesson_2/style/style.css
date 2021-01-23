@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+}
+
+.about_company{
+	/*background-color: darkblue;*/
+	/*background-color: #aa10bc;*/
+	/*background-color: rgb(100, 84, 54)*/ 
+	background-color: rgb(60, 99, 130);
+	margin: 20px;
+	/*margin: 20px 40px;*/
+	/*margin: 10px 20px 30px 40px;*/
+	margin-bottom: 50px;
+	padding: 20px;
+	border-radius: 38px;
+
+}	
+
+.about_company p{
+	color: white;
+}
+
+
+.products p{
+	color: red;
+}
+
+
+.bike{
+	width: 50px
+}
