@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.card{
+	background-color: darkblue;
+	color: #FFC312;
+}
+
+.card h1{
+	text-align: center;
+	color: #009432;
+}
+
+.card ul{
+	list-style: none;
+
+}
+
+.card li{
+	padding: 10px;
+
+}
+
